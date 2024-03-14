@@ -1,2 +1,2 @@
-salut on essaye de travailler sur git
+salut on vient de travailler sur git
 test sur l'utilisation de rebase
